@@ -51,47 +51,5 @@
     </div>
     <!-- End Portfolio -->
 
-    <div class="clients-area bg-theme default-padding">
-        <div class="container">
-            <div class="text-center">
-                <h2 class="newh2 white">Ya Confían en Sumi</h2>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="clients-items owl-carousel owl-theme text-center">
-                        <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
-                        </div>
-                        <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
-                        </div>
-                        <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
-                        </div>
-                        <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
-                        </div>
-                        <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
-                        </div>
-                        <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
-                        </div>
-                        <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
-                        </div>
-                        <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
-                        </div>
-                        <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
-                        </div>
-                        <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+   
 @endsection
