@@ -220,24 +220,7 @@
 
 <!-- Clients
 ============================================= -->
-<div class="clients-area default-padding">
-    <div class="container">
-        <div class="text-center">
-            <h2 class="newh2">Ya Confían en Sumi</h2>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <div class="clients-items owl-carousel black-arrows owl-theme text-center">
-                    @foreach ($partners as $partner)
-                        <div class="single-item">
-                            <a href="#"><img src="/storage/{{$partner->logo}}" style="width: 150px" alt="Clients"></a>
-                        </div>
-                    @endforeach
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+
 <!-- End Clients -->
 
 @endsection
